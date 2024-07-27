@@ -4,6 +4,6 @@
     "SoftwareVersion": "2.54",
     "BootstrapperUrl": "https://github.com/cmd-softworks/solara/raw/main/Bootstrapper.exe",
     "SoftwareUrl":"https://github.com/cmd-softworks/solara/raw/main/Solara.Dir.zip",
-    "VersionUrl":"https://clientsettings.roblox.com/v2/client-version/WindowsPlayer/channel/live",
+    "VersionUrl":"https://raw.githubusercontent.com/qasxsqweQuax/solaratest/main/liveversion",
     "ClientHash":"e854ce350a3692bc03bfb2fbc2a491fdf61c5f0d37c9fb4dd1acf4c2ec53844b"
 }
